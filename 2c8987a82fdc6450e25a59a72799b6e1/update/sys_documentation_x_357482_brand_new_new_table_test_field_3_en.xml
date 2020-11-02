@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test_field_3" label="Test Field 3" language="en" table="x_357482_brand_new_new_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test_field_3</element>
+            <help/>
+            <hint/>
+            <label>Test Field 3</label>
+            <language>en</language>
+            <name>x_357482_brand_new_new_table</name>
+            <plural>Test Field 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>aandrea</sys_created_by>
+            <sys_created_on>2020-11-02 18:02:02</sys_created_on>
+            <sys_id>f5ff8b602f10a450e25a59a72799b6e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Field 3</sys_name>
+            <sys_package display_value="Brand New App 11-2" source="x_357482_brand_new">2c8987a82fdc6450e25a59a72799b6e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Brand New App 11-2">2c8987a82fdc6450e25a59a72799b6e1</sys_scope>
+            <sys_update_name>sys_documentation_x_357482_brand_new_new_table_test_field_3_en</sys_update_name>
+            <sys_updated_by>aandrea</sys_updated_by>
+            <sys_updated_on>2020-11-02 18:02:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
