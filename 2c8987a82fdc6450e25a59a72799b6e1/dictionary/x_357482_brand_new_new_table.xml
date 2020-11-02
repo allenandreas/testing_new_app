@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="New Table" max_length="40" name="x_357482_brand_new_new_table" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Test field1" max_length="40" name="test_field1" type="string"/>
+        <element label="New Field" max_length="40" name="new_field_2" type="string"/>
     </element>
 </database>
