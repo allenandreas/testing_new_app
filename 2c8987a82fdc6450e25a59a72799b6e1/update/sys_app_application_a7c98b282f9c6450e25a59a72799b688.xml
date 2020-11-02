@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>aandrea</sys_created_by>
+        <sys_created_on>2020-11-02 17:35:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7c98b282f9c6450e25a59a72799b688</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Brand New App 11-2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Brand New App 11-2" source="x_357482_brand_new">2c8987a82fdc6450e25a59a72799b6e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Brand New App 11-2">2c8987a82fdc6450e25a59a72799b6e1</sys_scope>
+        <sys_update_name>sys_app_application_a7c98b282f9c6450e25a59a72799b688</sys_update_name>
+        <sys_updated_by>aandrea</sys_updated_by>
+        <sys_updated_on>2020-11-02 17:35:07</sys_updated_on>
+        <title>Brand New App 11-2</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
